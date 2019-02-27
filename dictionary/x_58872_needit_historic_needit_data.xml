@@ -4,6 +4,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Requested for" label="Requested for" max_length="40" name="u_requested_for" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Request type" label="Request type" max_length="40" name="u_request_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=What needed" label="What needed" max_length="40" name="u_what_needed" type="string"/>
     </element>
 </database>
